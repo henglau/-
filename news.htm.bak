@@ -1,0 +1,260 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+    <meta name="renderer" content="webkit">
+    <meta charset=utf-8"utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimal-ui">
+    <meta name="generator" content="M 5.3.10"  data-variable="http://jy.baidu.cn/muban/M1004002/305/,cn,10001,,10001,m1004002" />
+    <title>关于我们 - 关于我们 - 集团概况 - 家居设计公司网站模板</title>
+    <meta name="keywords" content="关于我们,关于我们">
+    <meta name="description" content="关于我们">
+    <link href="templates/web/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <link rel="stylesheet" href="templates/web/images/css/e06b158cf0ac4643.css" >
+    <!--[if lt IE 10]>
+    <script src="templates/web/images/js/media.match.min.js" ></script>
+    <script src="templates/web/images/js/respond.min.js" ></script>
+    <script src="templates/web/images/js/classList.min.js" ></script>
+    <![endif]-->
+</head>
+<body class="met-navfixed">
+<nav class="navbar navbar-default met-nav  navbar-fixed-top " role="navigation">
+    <div class="container">
+        <div class="row">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle hamburger hamburger-close collapsed" data-target="#example-navbar-default-collapse" data-toggle="collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="hamburger-bar"></span>
+                </button>
+                <a href="index.htm" class="navbar-logo vertical-align" title="家居设计公司网站模板">
+                    <div class="vertical-align-middle"><img src="templates/web/images/1472806036.png" alt="家居设计公司网站模板" title="家居设计公司网站模板" /></div>
+                </a>
+            </div>
+            <div class="collapse navbar-collapse navbar-collapse-toolbar" id="example-navbar-default-collapse">
+                <ul class="nav navbar-nav navbar-right navlist">
+                    <li class="dropdown ecodropdown margin-left-0">
+                        <a href="index.htm" title="HOME" class="dropdown-toggle link " data-toggle="" data-hover="dropdown" aria-expanded="false" role="button">首页 </a>
+                    </li>
+                    <li class="dropdown ecodropdown margin-left-0">
+                        <a href="-c=msg&ts=aboutus.htm" title="关于我们" class="dropdown-toggle link active" data-toggle="" data-hover="dropdown" aria-expanded="false" role="button">关于我们 </a>
+                    </li>
+                    <li class="dropdown ecodropdown margin-left-0">
+                        <a href="-c=list&cs=cp.htm" title="产品展示" class="dropdown-toggle link " data-toggle="dropdown" data-hover="dropdown" aria-expanded="false" role="button">产品展示 <span class="caret"></span></a>
+                        <ul class="dropdown-menu dropdown-menu-right bullet" role="menu">
+                            <li>
+                                <a href="-c=list&cs=jiaju.htm" title="家具">家具</a>
+                            </li>
+                            <li>
+                                <a href="-c=list&cs=dengju.htm" title="灯具">灯具</a>
+                            </li>
+                            <li>
+                                <a href="-c=list&cs=peijian.htm" title="配件">配件</a>
+                            </li>
+                            <li>
+                                <a href="-c=list&cs=peishi.htm" title="配饰">配饰</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="dropdown ecodropdown margin-left-0">
+                        <a href="-c=list&cs=anlizhanshi.htm" title="案例展示" class="dropdown-toggle link " data-toggle="" data-hover="dropdown" aria-expanded="false" role="button">案例展示 </a>
+                    </li>
+                    <li class="dropdown ecodropdown margin-left-0">
+                        <a href="-c=list&cs=news.htm" title="资讯中心" class="dropdown-toggle link " data-toggle="dropdown" data-hover="dropdown" aria-expanded="false" role="button">资讯中心 <span class="caret"></span></a>
+                        <ul class="dropdown-menu dropdown-menu-right bullet" role="menu">
+                            <li>
+                                <a href="-c=list&cs=chanpinzixun.htm" title="产品资讯">产品资讯</a>
+                            </li>
+                            <li>
+                                <a href="-c=list&cs=xingyexinwen.htm" title="行业新闻">行业新闻</a>
+                            </li>
+                            <li>
+                                <a href="-c=list&cs=guojizixun.htm" title="国际资讯">国际资讯</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="dropdown ecodropdown margin-left-0">
+                        <a href="-c=list&ms=book.htm" title="在线留言" class="dropdown-toggle link " data-toggle="" data-hover="dropdown" aria-expanded="false" role="button">在线留言 </a>
+                    </li>
+                    <li class="dropdown ecodropdown margin-left-0">
+                        <a href="-c=msg&ts=contactus.htm" title="联系我们" class="dropdown-toggle link " data-toggle="" data-hover="dropdown" aria-expanded="false" role="button">联系我们 </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</nav>
+<div class="met-banner">
+    <div class="carousel slide" id="met-banner-slide" data-ride="carousel">
+        <div class="carousel-inner " role="listbox">
+            <div class="item active">
+                <picture>
+                    <source srcset="templates/web/images/1472719319.png" media="(min-width: 768px)" />
+                    <img class="cover-image overlay-scale" srcset="templates/web/images/1472719319.png" alt=""/>
+                </picture>
+                <div class="carousel-caption p-">
+                    <h3 class="animation-slide-top animation-delay-300" style="color:"></h3>
+                    <p class="animation-slide-bottom animation-delay-600" style="color:"></p>
+                </div></div></div></div></div><div class="met-column-nav  ">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 sidebar_tile">
+                <div class="row">
+                    <ul class="met-column-nav-ul">
+                        <li class="dropdown">
+                            <a href="-c=msg&ts=aboutus.htm" title="关于我们" class="link active">关于我们</a>
+                        </li>
+                        <li class="dropdown">
+                            <a href="-c=msg&ts=contactus.htm" title="联系我们" class="link ">联系我们</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<section class="met-news animsition ">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-9 met-news-body">
+                <div class="row">
+                    <div class="met-news-list">
+                        <ul class="met-page-ajax" data-scale='0.75'>
+                            <li>
+                                <div class="media media-lg">
+                                    <div class="media-left">
+                                        <a href="-c=msg&id=2228.htm" title="打响突围战，整装能否成为互联网家装的“洪荒之力”？" target='_self'>
+                                            <img class="media-object" src="upfiles/localmg/201702/21/a2a208c038ef5169b9f65fe88fe563c5.jpg" style='height:150px;' alt="打响突围战，整装能否成为互联网家装的“洪荒之力”？">
+                                        </a>
+                                    </div>
+                                    <div class="media-body">
+                                        <h4 class="media-heading">
+                                            <a href="-c=msg&id=2228.htm" title="打响突围战，整装能否成为互联网家装的“洪荒之力”？" target='_self'>打响突围战，整装能否成为互联网家装的“洪荒之力”？</a>
+                                        </h4>
+                                        <p class="des">互联网家装发展初期，被资本赋能，一时间百花齐放，599，699不断撩拨消费者眼球。但是，资本大潮退却，裸泳者丑态尽显，服务差、不环保、工期长、施工不达标、隐含收费项目等备受诟病，浑水...</p>
+                                        <p class="info"><span>2017-21-02</span><span>handler</span><span><i class="icon wb-eye margin-right-5" aria-hidden="true"></i>16</span></p>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="media media-lg">
+                                    <div class="media-left">
+                                        <a href="-c=msg&id=2227.htm" title="吴巍设计新作：漫延——谱写奢华 极致演绎" target='_self'>
+                                            <img class="media-object" src="upfiles/localmg/201702/21/bcd3161748034b913554f20fe11eae52.jpg" style='height:150px;' alt="吴巍设计新作：漫延——谱写奢华 极致演绎">
+                                        </a>
+                                    </div>
+                                    <div class="media-body">
+                                        <h4 class="media-heading">
+                                            <a href="-c=msg&id=2227.htm" title="吴巍设计新作：漫延——谱写奢华 极致演绎" target='_self'>吴巍设计新作：漫延——谱写奢华 极致演绎</a>
+                                        </h4>
+                                        <p class="des">本案展现了设计师出色的造型语言与空间感受力。在这栋美丽的大宅中，设计师通过时尚的设计语言，阐明了自己对于室内设计的理解。在时髦、奢侈、品质和优雅之间，设计师以自己的方...</p>
+                                        <p class="info"><span>2017-21-02</span><span>handler</span><span><i class="icon wb-eye margin-right-5" aria-hidden="true"></i>6</span></p>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                        <div class="hidden-xs">
+                            <div class='met_pager'>
+                                <a href="-c=list&cs=news.htm" class="n NextA">首页</a>
+                                <a href="-c=list&cs=news&pageid=1.htm" class="m NextA">1</a>
+                                <span class='PageText'>转至第</span>
+                                <input type='text' id='metPageT' data-pageurl='news.php?lang=cn&class1=26&page=||2' value='1' />
+                                <input type='button' id='metPageB' value='页' />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="row">
+                    <div class="met-news-bar">
+                        <form method='post' action="http://view.gzjunyu.com/php184/?c=search">
+                            <input type='hidden' name='keywords' value='cn' />
+                            <input type='hidden' name='keywords' value='108' />
+                            <div class="form-group">
+                                <div class="input-search">
+                                    <button type="submit" class="input-search-btn" >
+                                        <i class="icon wb-search" aria-hidden="true"></i>
+                                    </button>
+                                    <input type="text" class="form-control" name="keywords" placeholder="Search">
+                                </div>
+                            </div>
+                        </form>
+                        <div class="recommend news-list-md">
+                            <h3>为您推荐</h3>
+                            <ul class="list-group list-group-bordered">
+                                <li class="list-group-item">
+                                    <a href="-c=msg&id=2228.htm" title="打响突围战，整装能否成为互联网家装的“洪荒之力”？" target='_self'>打响突围战，整装能否成为互联网家装的“洪荒之力”？</a>
+                                </li>
+                                <li class="list-group-item">
+                                    <a href="-c=msg&id=2227.htm" title="吴巍设计新作：漫延——谱写奢华 极致演绎" target='_self'>吴巍设计新作：漫延——谱写奢华 极致演绎</a>
+                                </li>
+                                <li class="list-group-item">
+                                    <a href="-c=msg&id=2226.htm" title="天了噜！香港年轻人居然住上这样的学生公寓" target='_self'>天了噜！香港年轻人居然住上这样的学生公寓</a>
+                                </li>
+                                <li class="list-group-item">
+                                    <a href="-c=msg&id=2225.htm" title="和室榻榻米定制的一个误区：看上去都一样" target='_self'>和室榻榻米定制的一个误区：看上去都一样</a>
+                                </li>
+                            </ul>
+                        </div>
+                        <ul class="column">
+                            <li>
+                                <a href="-c=list&cs=chanpinzixun.htm" title="产品资讯">产品资讯</a>
+                            </li>
+                            <li>
+                                <a href="-c=list&cs=xingyexinwen.htm" title="行业新闻">行业新闻</a>
+                            </li>
+                            <li>
+                                <a href="-c=list&cs=guojizixun.htm" title="国际资讯">国际资讯</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<footer>
+    <div class="linksnav">
+        <div class="met-links met-navnew text-center">
+            <div class="container">
+                <ol class="breadcrumb">
+                    <li>
+                        <a href="index.htm"  title="首页">首页</a>
+                    </li>
+                    <li>
+                        <a href="-c=msg&ts=aboutus.htm" title="关于我们">关于我们</a>
+                    </li>
+                    <li>
+                        <a href="-c=list&cs=cp.htm" title="产品展示">产品展示</a>
+                    </li>
+                    <li>
+                        <a href="-c=list&cs=anlizhanshi.htm" title="案例展示">案例展示</a>
+                    </li>
+                    <li>
+                        <a href="-c=list&cs=news.htm" title="资讯中心">资讯中心</a>
+                    </li>
+                    <li>
+                        <a href="-c=list&ms=book.htm" title="在线留言">在线留言</a>
+                    </li>
+                    <li>
+                        <a href="-c=msg&ts=contactus.htm" title="联系我们">联系我们</a>
+                    </li>
+                </ol>
+            </div>
+        </div>
+    </div>
+    <div class="met-social text-center"></div>
+    <div class="met_foot_txt">
+        <div class="container text-center">科技公司 版权所有 © 2008-2017 粤ICP备8888888 本页面内容为网站演示数据，前台页面内容都可以在后台修改。    </div>
+    </div>
+</footer>
+<button type="button" class="btn btn-icon btn-primary btn-squared met-scroll-top hide">
+    <i class="icon wb-chevron-up" aria-hidden="true"></i>
+</button>
+<script src="templates/web/images/js/ce234b7976f4016f.js" ></script>
+</body>
+</html>
